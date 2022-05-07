@@ -2,6 +2,6 @@
 
 Binary Games
 
-## All rights of Game Mechanics reserved to Zand.Games
+## This game is designed by Zand.Games
 
 https://zand.games/
