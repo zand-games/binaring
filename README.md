@@ -2,6 +2,6 @@
 
 Binary Games
 
-## This game is designed by Zand.Games
+## Zand.Games © 2022
 
 https://zand.games/
