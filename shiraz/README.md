@@ -1,6 +1,6 @@
-# Binaring
+# Shiraz Binary Game
 
-Binary Game Series
+Compiled Version
 
 ## Zand.Games © 2022
 
